@@ -165,17 +165,17 @@ Residual Mixture of Experts [[ArXiv 2022]](https://arxiv.org/abs/2204.09636) 202
 
 <a id="22">[22]</a> TA-MoE: Topology-Aware Large Scale Mixture-of-Expert Training	[[NIPS 2022]](https://arxiv.org/abs/2302.09915) 2023-2-20
 
-<a id="23">[23]</a> Hetu: a highly efficient automatic parallel distributed deep learning system	[Sci. China Inf. Sci. 2023](https://link.springer.com/article/10.1007/s11432-022-3581-9) 2022-12
+<a id="23">[23]</a> Hetu: a highly efficient automatic parallel distributed deep learning system	[[Sci. China Inf. Sci. 2023]](https://link.springer.com/article/10.1007/s11432-022-3581-9) 2022-12
 
-<a id="24">[24]</a> HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System	[ArXiv 2022]
+<a id="24">[24]</a> HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System	[[ArXiv 2022]](https://arxiv.org/abs/2203.14685) 2022-3-28
 
-<a id="25">[25]</a> MEGABLOCKS: EFFICIENT SPARSE TRAINING WITH MIXTURE-OF-EXPERTS	[ArXiv 2022]
+<a id="25">[25]</a> MEGABLOCKS: EFFICIENT SPARSE TRAINING WITH MIXTURE-OF-EXPERTS	[[MLSys 2023]](https://arxiv.org/abs/2211.15841) 2022-11-29
 
-<a id="26">[26]</a> Mixture-of-Experts with Expert Choice Routing	[NIPS 2022]
+<a id="26">[26]</a> Mixture-of-Experts with Expert Choice Routing	[[NIPS 2022]](https://arxiv.org/abs/2202.09368) 2022-2-18
 
-<a id="27">[27]</a> ST-MOE: DESIGNING STABLE AND TRANSFERABLE SPARSE EXPERT MODELS	[ArXiv 2022]
+<a id="27">[27]</a> ST-MOE: DESIGNING STABLE AND TRANSFERABLE SPARSE EXPERT MODELS	[[ArXiv 2022]](https://arxiv.org/abs/2202.08906) 2022-2-17
 
-<a id="28">[28]</a> Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts	[NIPS 2022]
+<a id="28">[28]</a> Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts	[[NIPS 2022]](https://arxiv.org/abs/2206.02770) 2022-6-6
 
 <a id="29">[29]</a> No Language Left Behind: Scaling Human-Centered Machine Translation	[ArXiv 2022]
 
