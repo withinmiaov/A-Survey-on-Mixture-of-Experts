@@ -103,6 +103,7 @@
 
 A Review of Sparse Expert Models in Deep Learning [[ArXiv 2022]](https://arxiv.org/abs/2209.01667) 2022-9-4
 
+Taming Sparsely Activated Transformer with Stochastic Experts [[ICLR 2022]](https://arxiv.org/abs/2110.04260) 2021-10-8
 
 <a id="1">[1]</a> OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER	[ICLR 2017]
 
