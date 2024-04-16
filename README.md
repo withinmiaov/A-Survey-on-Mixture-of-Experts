@@ -105,7 +105,18 @@ A Review of Sparse Expert Models in Deep Learning [[ArXiv 2022]](https://arxiv.o
 
 Taming Sparsely Activated Transformer with Stochastic Experts [[ICLR 2022]](https://arxiv.org/abs/2110.04260) 2021-10-8
 
-<a id="1">[1]</a> OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER	[ICLR 2017]
+Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008) 2023-5-29
+
+Patch-level Routing in Mixture-of-Experts is Provably Sample-efficient for Convolutional Neural Networks [[ICML 2023]](https://arxiv.org/abs/2306.04073) 2023-6-7
+
+Robust Mixture-of-Expert Training for Convolutional Neural Networks [[ICCV 2023]](https://arxiv.org/abs/2308.10110v1) 2023-8-19
+
+Merging Experts into One: Improving Computational Efficiency of Mixture of Experts [[EMNLP 2023]](https://arxiv.org/abs/2310.09832) 2023-10-15
+
+
+
+
+<a id="1">[1]</a> OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER	[[ICLR 2017]](https://arxiv.org/abs/1701.06538) 2017-1-23
 
 <a id="2">[2]</a> GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding	[ICLR 2021]
 
