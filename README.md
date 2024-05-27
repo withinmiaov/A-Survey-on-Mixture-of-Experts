@@ -253,3 +253,6 @@
 
 <a id="75">[75]</a> Soft Merging of Experts with Adaptive Routing [[TMLR 2024]](https://arxiv.org/abs/2306.03745) 2023-6-6
 
+<a id="76">[76]</a> Experts Weights Averaging: A New General Training Scheme for Vision Transformers [[ArXiv 2023]](https://arxiv.org/abs/2308.06093) 2023-8-11
+
+
