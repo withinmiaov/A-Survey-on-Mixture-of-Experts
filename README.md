@@ -67,7 +67,7 @@
 
 
 ## PEFT
-[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). 
+[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). [[70]](#70).
 
 ### Attention
 
@@ -96,7 +96,7 @@
 
 
 ### MultiModal
-[[28]](#28). [[35]](#35). 
+[[28]](#28). [[35]](#35). [[72]](#72). 
 
 ## References
 
@@ -241,7 +241,15 @@
 
 <a id="69">[69]</a> Residual Mixture of Experts [[ArXiv 2022]](https://arxiv.org/abs/2204.09636) 2022-4-20
 
+<a id="70">[70]</a> MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts [[ArXiv 2024]](https://arxiv.org/abs/2404.15159) 2024-4-22
 
+<a id="71">[71]</a> One Student Knows All Experts Know: From Sparse to Dense [[ArXiv 2022]](https://arxiv.org/abs/2201.10890) 2022-1-26
 
+<a id="72">[72]</a> Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts [[ArXiv 2024]](https://arxiv.org/abs/2405.11273) 2024-5-18
 
+<a id="73">[73]</a> Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training [[ArXiv 2024]](https://arxiv.org/abs/2405.03133) 2024-5-6
+
+<a id="74">[74]</a> Multi-Head Mixture-of-Experts [[ArXiv 2024]](https://arxiv.org/abs/2404.15045) 2024-4-23
+
+<a id="75">[75]</a> Soft Merging of Experts with Adaptive Routing [[TMLR 2024]](https://arxiv.org/abs/2306.03745) 2023-6-6
 
