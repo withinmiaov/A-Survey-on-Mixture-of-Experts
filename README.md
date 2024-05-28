@@ -2,26 +2,41 @@
 
 
 ## Algorithm
-[[1]](#1). [[2]](#2). [[10]](#10). [[11]](#11). [[12]](#12). [[15]](#15). [[19]](#19). [[20]](#20). [[21]](#21). [[46]](#46). [[48]](#48). [[62]](#62). [[65]](#65). [[66]](#66). 
-
-
 ### Gating Network
-#### Dense
-[[7]](#7). [[21]](#21). [[1]](#1). [[2]](#2). [[27]](#27).
-#### Sparse
-[[4]](#4). [[5]](#5). [[17]](#17). [[44]](#44). [[61]](#61). 
+#### Soft/Dense
+[[31]](#31). (Lora, maybe mention widely used in peft, because it is found better [[45]](#45).)
+[[34]](#34).
+[[66]](#66). (dense train, sparse inference) 
+[[73]](#73).
+[[75]](#75).
+#### Sparse 
+[[60]](#60). (a review)
+##### Token Choice
+[[1]](#1). [[2]](#2). [[3]](#3). [[8]](#8). [[12]](#12). [[14]](#14). [[16]](#16). [[21]](#21). [[27]](#27). [[29]](#29).(mainstream) [[78]](#78)
+[[7]](#7). [[10]](#10).
 
+
+##### Expert Choice
+[[26]](#26).
+
+##### Non-trainable
+[[4]](#4). [[5]](#5). [[17]](#17). [[19]](#19). [[44]](#44). [[61]](#61). 
+[[77]](#77). (task-level, be argued in a paper) 
+[[79]](#79). [[80]](#80). [[81]](#81).
 
 
 ### Experts
 #### Network Types
 ##### FFN
+[[35]](#35). 
 ##### Others
-[[30]](#30). [[63]](#63). [[64]](#64). [[67]](#67). [[68]](#68). [[35]](#35). 
+[[30]](#30). [[63]](#63). [[64]](#64). [[67]](#67). [[68]](#68). [[74]](#74).
 #### Share Expert
-[[18]](#18). [[50]](#50). [[56]](#56). 
+[[18]](#18). [[50]](#50). [[56]](#56). [[59]](#59).
 #### Finegrained Expert
+[[46]](#46). 
 #### Placement
+[[62]](#62).
 ##### Intermediate Layers
 ##### Last Layers
 ##### Every Layers
@@ -40,13 +55,20 @@
 ### Training Paradigm
 #### Fully Synchronized
 #### Asynchronous
-[[13]](#13). [[49]](#49). [[54]](#54). [[69]](#69). 
+ [[49]](#49). [[54]](#54). [[69]](#69). [[20]](#20). [[46]](#46). 
+[[11]](#11). [[13]](#13).
+frozen routing in finetuning [[10]](#10).
+[[48]](#48). 
+##### inference opt or compression
+[[66]](#66). (dense train, sparse inference) 
+[[71]](#71).
+[[76]](#76).
 
 
 
 ### Derivation
 [[53]](#53). [[34]](#34). [[26]](#26).
-
+[[15]](#15).
 
 
 
@@ -71,11 +93,12 @@
 ### NLP
 [[8]](#8). [[16]](#16). [[29]](#29). 
 ### CV
-[[3]](#3). [[39]](#39). 
+[[3]](#3). [[39]](#39). [[64]](#64).
+[[63]](#63). 
 ### RecSys
 
 ### MultiModal
-[[28]](#28). [[35]](#35). [[72]](#72). 
+[[28]](#28). [[35]](#35). [[42]](#42). [[54]](#54). [[72]](#72). 
 
 
 
@@ -236,6 +259,13 @@
 <a id="77">[77]</a> Eliciting and Understanding Cross-Task Skills with Task-Level Mixture-of-Experts [[EMNLP 2022]](https://arxiv.org/abs/2205.12701) 2022-5-25
 
 <a id="78">[78]</a> CPM-2: Large-scale Cost-effective Pre-trained Language Models [[AI Open 2021]](https://arxiv.org/abs/2106.10715) 2021-1-20
+
+<a id="79">[79]</a> DEMix Layers: Disentangling Domains for Modular Language Modeling [[NAACL 2022]](https://arxiv.org/abs/2108.05036) 2021-8-11
+
+<a id="80">[80]</a> Beyond English-Centric Multilingual Machine Translation [[JMLR 2021]](https://arxiv.org/abs/2010.11125) 2020-10-21
+
+<a id="81">[81]</a> Modeling task relationships in multi-task learning with multi-gate mixture-of-experts. [[KDD 2018]](https://arxiv.org/abs/2010.11125) 2018-7-19
+
 
 
 
