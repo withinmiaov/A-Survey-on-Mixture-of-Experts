@@ -5,41 +5,40 @@
 [[1]](#1). [[2]](#2). [[10]](#10). [[11]](#11). [[12]](#12). [[15]](#15). [[19]](#19). [[20]](#20). [[21]](#21). [[46]](#46). [[48]](#48). [[62]](#62). [[65]](#65). [[66]](#66). 
 
 
-### Module
-
-#### Experts
-
-##### Dense
-[[30]](#30). [[63]](#63). [[64]](#64). [[67]](#67). [[68]](#68). 
-
-##### Sparse
-
-##### Share
-[[18]](#18). [[50]](#50). [[56]](#56). 
-
-##### Placement
-
-##### Activ. Func.
-
-
-##### Networks
-[[35]](#35). 
-
-
-#### Gating Network
-
-##### Dynamic
+### Gating Network
+#### Dense
 [[7]](#7). [[21]](#21). [[1]](#1). [[2]](#2). [[27]](#27).
-
-##### Static
+#### Sparse
 [[4]](#4). [[5]](#5). [[17]](#17). [[44]](#44). [[61]](#61). 
 
 
 
+### Experts
+#### Network Types
+##### FFN
+##### Others
+[[30]](#30). [[63]](#63). [[64]](#64). [[67]](#67). [[68]](#68). [[35]](#35). 
+#### Share Expert
+[[18]](#18). [[50]](#50). [[56]](#56). 
+#### Finegrained Expert
+#### Placement
+##### Intermediate Layers
+##### Last Layers
+##### Every Layers
+
+#### Activ. Func.
+
+#### PEFT
+[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). [[70]](#70).
+##### Attention
+##### FFN
+##### Every SubLayer
+##### Transformer Block
+
+
+
 ### Training Paradigm
-
 #### Fully Synchronized
-
 #### Asynchronous
 [[13]](#13). [[49]](#49). [[54]](#54). [[69]](#69). 
 
@@ -51,34 +50,17 @@
 
 
 
-## System
 
+
+
+## System
 [[6]](#6). [[9]](#9). [[14]](#14). [[18]](#18). [[23]](#23). [[24]](#24). [[25]](#25). [[33]](#33). [[36]](#36). [[38]](#38). [[39]](#39). [[41]](#41). [[47]](#47). 
 ### Computation
 
-
 ### Memory
 [[32]](#32). [[43]](#43). 
-
 ### Communication 
 [[22]](#22). [[59]](#59). 
-
-
-
-
-## PEFT
-[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). [[70]](#70).
-
-### Attention
-
-
-### FFN
-
-
-### Every SubLayer
-
-
-### Transformer Block
 
 
 
@@ -88,20 +70,16 @@
 
 ### NLP
 [[8]](#8). [[16]](#16). [[29]](#29). 
-
 ### CV
 [[3]](#3). [[39]](#39). 
-
 ### RecSys
-
 
 ### MultiModal
 [[28]](#28). [[35]](#35). [[72]](#72). 
 
+
+
 ## References
-
-
-
 
 <a id="1">[1]</a> OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER	[[ICLR 2017]](https://arxiv.org/abs/1701.06538) 2017-1-23
 
@@ -254,5 +232,8 @@
 <a id="75">[75]</a> Soft Merging of Experts with Adaptive Routing [[TMLR 2024]](https://arxiv.org/abs/2306.03745) 2023-6-6
 
 <a id="76">[76]</a> Experts Weights Averaging: A New General Training Scheme for Vision Transformers [[ArXiv 2023]](https://arxiv.org/abs/2308.06093) 2023-8-11
+
+<a id="77">[77]</a> Eliciting and Understanding Cross-Task Skills with Task-Level Mixture-of-Experts [[EMNLP 2022]](https://arxiv.org/abs/2205.12701) 2022-5-25
+
 
 
