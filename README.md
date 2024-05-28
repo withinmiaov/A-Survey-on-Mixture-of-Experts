@@ -235,5 +235,8 @@
 
 <a id="77">[77]</a> Eliciting and Understanding Cross-Task Skills with Task-Level Mixture-of-Experts [[EMNLP 2022]](https://arxiv.org/abs/2205.12701) 2022-5-25
 
+<a id="78">[78]</a> CPM-2: Large-scale Cost-effective Pre-trained Language Models [[AI Open 2021]](https://arxiv.org/abs/2106.10715) 2021-1-20
+
+
 
 
