@@ -266,7 +266,7 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="81">[81]</a> Modeling task relationships in multi-task learning with multi-gate mixture-of-experts. [[KDD 2018]](https://arxiv.org/abs/2010.11125) 2018-7-19
 
-
+<a id="82">[82]</a> Moduleformer: Learning modular large language models from uncurated data. [[ArXiv 2023]](https://arxiv.org/abs/2306.04640) 2023-6-7
 
 
 
