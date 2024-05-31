@@ -268,5 +268,5 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="82">[82]</a> Moduleformer: Learning modular large language models from uncurated data. [[ArXiv 2023]](https://arxiv.org/abs/2306.04640) 2023-6-7
 
-
+<a id="83">[83]</a> SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System. [[ArXiv 2022]](https://arxiv.org/abs/2205.10034) 2022-5-20
 
