@@ -10,11 +10,11 @@
 [[73]](#73).
 [[75]](#75).
 #### Sparse 
-[[60]](#60). (a review)
+[[60]](#60). (a review) 
 ##### Token Choice
 [[1]](#1). [[2]](#2). [[3]](#3). [[8]](#8). [[12]](#12). [[14]](#14). [[16]](#16). [[21]](#21). [[27]](#27). [[29]](#29).(mainstream) [[78]](#78)
 [[7]](#7). [[10]](#10).
-
+[[84]](#84)
 
 ##### Expert Choice
 [[26]](#26).
@@ -264,9 +264,10 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="80">[80]</a> Beyond English-Centric Multilingual Machine Translation [[JMLR 2021]](https://arxiv.org/abs/2010.11125) 2020-10-21
 
-<a id="81">[81]</a> Modeling task relationships in multi-task learning with multi-gate mixture-of-experts. [[KDD 2018]](https://arxiv.org/abs/2010.11125) 2018-7-19
+<a id="81">[81]</a> Modeling task relationships in multi-task learning with multi-gate mixture-of-experts [[KDD 2018]](https://arxiv.org/abs/2010.11125) 2018-7-19
 
-<a id="82">[82]</a> Moduleformer: Learning modular large language models from uncurated data. [[ArXiv 2023]](https://arxiv.org/abs/2306.04640) 2023-6-7
+<a id="82">[82]</a> Moduleformer: Learning modular large language models from uncurated data [[ArXiv 2023]](https://arxiv.org/abs/2306.04640) 2023-6-7
 
-<a id="83">[83]</a> SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System. [[ArXiv 2022]](https://arxiv.org/abs/2205.10034) 2022-5-20
+<a id="83">[83]</a> SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System [[ArXiv 2022]](https://arxiv.org/abs/2205.10034) 2022-5-20
 
+<a id="84">[84]</a> Sparsity-Constrained Optimal Transport [[ICLR 2023]](https://arxiv.org/abs/2209.15466) 2022-9-30
