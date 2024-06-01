@@ -271,3 +271,7 @@ frozen routing in finetuning [[10]](#10).
 <a id="83">[83]</a> SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System [[ArXiv 2022]](https://arxiv.org/abs/2205.10034) 2022-5-20
 
 <a id="84">[84]</a> Sparsity-Constrained Optimal Transport [[ICLR 2023]](https://arxiv.org/abs/2209.15466) 2022-9-30
+
+<a id="85">[85]</a> Dselect-k: Differentiable selection in the mixture of experts with applications to multi-task learning [[NIPS 2021]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f5ac21cd0ef1b88e9848571aeb53551a-Abstract.html) 2021
+
+
