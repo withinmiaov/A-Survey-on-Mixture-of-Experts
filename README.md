@@ -277,3 +277,5 @@ frozen routing in finetuning [[10]](#10).
 <a id="86">[86]</a> M6-t: Exploring sparse expert models and beyond [[ArXiv 2021]](https://arxiv.org/abs/2105.15082) 2021-5-31
 
 <a id="87">[87]</a> Tricks for Training Sparse Translation Models [[NAACL 2022]](https://arxiv.org/abs/2110.08246) 2021-10-15
+
+<a id="88">[88]</a> Scalable and Efficient MoE Training for Multitask Multilingual Models [[ArXiv 2021]](https://arxiv.org/abs/2109.10465) 2021-9-22
