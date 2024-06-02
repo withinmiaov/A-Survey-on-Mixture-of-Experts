@@ -274,4 +274,5 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="85">[85]</a> Dselect-k: Differentiable selection in the mixture of experts with applications to multi-task learning [[NIPS 2021]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f5ac21cd0ef1b88e9848571aeb53551a-Abstract.html) 2021
 
+<a id="86">[86]</a> M6-t: Exploring sparse expert models and beyond [[ArXiv 2021]](https://arxiv.org/abs/2105.15082) 2021-5-31
 
