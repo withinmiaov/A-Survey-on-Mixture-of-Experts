@@ -279,3 +279,6 @@ frozen routing in finetuning [[10]](#10).
 <a id="87">[87]</a> Tricks for Training Sparse Translation Models [[NAACL 2022]](https://arxiv.org/abs/2110.08246) 2021-10-15
 
 <a id="88">[88]</a> Scalable and Efficient MoE Training for Multitask Multilingual Models [[ArXiv 2021]](https://arxiv.org/abs/2109.10465) 2021-9-22
+
+<a id="89">[89]</a> Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners [[CVPR 2023]](https://arxiv.org/abs/2212.08066) 2022-12-15
+
