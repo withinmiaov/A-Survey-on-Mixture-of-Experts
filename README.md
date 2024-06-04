@@ -284,4 +284,4 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="90">[90]</a> Beyond distillation: Task-level mixture-of-experts for efficient inference [[EMNLP 2021]](https://arxiv.org/abs/2110.03742) 2021-9-24
 
-
+<a id="91">[91]</a> Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models [[ArXiv 2024]](https://github.com/SkyworkAI/Skywork-MoE) 2024-6-3
