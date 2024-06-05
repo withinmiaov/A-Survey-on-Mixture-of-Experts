@@ -290,3 +290,5 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="93">[93]</a> PIT: Optimization of Dynamic Sparse Deep Learning Models via Permutation Invariant Transformation [[SOSP 2023]](https://arxiv.org/abs/2301.10936) 2023-1-26
 
+<a id="94">[94]</a> Sparse Universal Transformer [[EMNLP 2023]](https://arxiv.org/abs/2310.07096) 2023-10-11
+
