@@ -285,3 +285,8 @@ frozen routing in finetuning [[10]](#10).
 <a id="90">[90]</a> Beyond distillation: Task-level mixture-of-experts for efficient inference [[EMNLP 2021]](https://arxiv.org/abs/2110.03742) 2021-9-24
 
 <a id="91">[91]</a> Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models [[ArXiv 2024]](https://github.com/SkyworkAI/Skywork-MoE) 2024-6-3
+
+<a id="92">[92]</a> Scattered Mixture-of-Experts Implementation [[ArXiv 2024]](https://arxiv.org/abs/2403.08245) 2024-3-13
+
+<a id="93">[93]</a> PIT: Optimization of Dynamic Sparse Deep Learning Models via Permutation Invariant Transformation [[SOSP 2023]](https://arxiv.org/abs/2301.10936) 2023-1-26
+
