@@ -292,3 +292,4 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="94">[94]</a> Sparse Universal Transformer [[EMNLP 2023]](https://arxiv.org/abs/2310.07096) 2023-10-11
 
+<a id="95">[95]</a> Towards Understanding Mixture of Experts in Deep Learning [[ArXiv 2022]](https://arxiv.org/abs/2208.02813) 2022-8-4
