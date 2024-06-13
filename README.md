@@ -297,3 +297,6 @@ frozen routing in finetuning [[10]](#10).
 <a id="96">[96]</a> Lancet: Accelerating Mixture-of-Experts Training via Whole Graph Computation-Communication Overlapping [[ArXiv 2024]](https://arxiv.org/abs/2404.19429) 2024-4-30
 
 <a id="97">[97]</a> SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts [[EMNLP 2023]](https://openreview.net/forum?id=5x5Vxclc1K) 2023-10-8
+
+<a id="98">[98]</a> Mixtral of Experts [[ArXiv 2024]](https://arxiv.org/abs/2401.04088) 2023-12-11
+
