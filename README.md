@@ -310,4 +310,7 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="103">[103]</a> When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications [[SIGIR 2024]](https://arxiv.org/abs/2310.18339) 2023-10-21
 
-<a id="103">[104]</a> Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning [[ArXiv 2024]](https://arxiv.org/abs/2404.08985) 2024-4-13
+<a id="104">[104]</a> Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning [[ArXiv 2024]](https://arxiv.org/abs/2404.08985) 2024-4-13
+
+<a id="105">[105]</a> FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion [[ArXiv 2024]](https://arxiv.org/abs/2402.03226) 2024-2-5
+
