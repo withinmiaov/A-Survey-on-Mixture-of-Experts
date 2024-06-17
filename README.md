@@ -316,3 +316,7 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="106">[106]</a> HOMOE: A Memory-Based and Composition-Aware Framework for Zero-Shot Learning with Hopfield Network and Soft Mixture of Experts [[ArXiv 2023]](https://arxiv.org/abs/2311.14747) 2023-11-23
 
+<a id="107">[107]</a> MoEfication: Transformer Feed-forward Layers are Mixtures of Experts [[ACL 2022]](https://arxiv.org/abs/2110.01786) 2021-10-5
+
+<a id="108">[108]</a> MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation [[NAACL 2022]](https://arxiv.org/abs/2204.07675) 2022-4-15
+
