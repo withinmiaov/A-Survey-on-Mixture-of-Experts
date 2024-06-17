@@ -44,7 +44,7 @@
 #### Activ. Func.
 
 #### PEFT
-[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). [[70]](#70).
+[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). [[70]](#70). [[101]](#101). [[102]](#102). [[103]](#103).
 ##### Attention
 ##### FFN
 ##### Every SubLayer
@@ -303,3 +303,9 @@ frozen routing in finetuning [[10]](#10).
 <a id="99">[99]</a> Yuan 2.0-M32: Mixture of Experts with Attention Router [[ArXiv 2024]](https://arxiv.org/abs/2405.17976) 2024-5-28
 
 <a id="100">[100]</a> LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training [[Github 2023]](https://github.com/pjlab-sys4nlp/llama-moe/blob/main/docs/LLaMA_MoE.pdf) 2023-12
+
+<a id="101">[101]</a> Sira: Sparse mixture of low rank adaptation [[ArXiv 2023]](https://arxiv.org/abs/2311.09179) 2023-11-15
+
+<a id="102">[102]</a> AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning [[EMNLP 2022]](https://arxiv.org/abs/2205.12410) 2022-5-24
+
+<a id="103">[103]</a> When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications [[SIGIR 2024]](https://arxiv.org/abs/2310.18339) 2023-10-21
