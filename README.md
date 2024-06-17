@@ -302,3 +302,4 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="99">[99]</a> Yuan 2.0-M32: Mixture of Experts with Attention Router [[ArXiv 2024]](https://arxiv.org/abs/2405.17976) 2024-5-28
 
+<a id="100">[100]</a> LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training [[Github 2023]](https://github.com/pjlab-sys4nlp/llama-moe/blob/main/docs/LLaMA_MoE.pdf) 2023-12
