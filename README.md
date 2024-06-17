@@ -44,7 +44,7 @@
 #### Activ. Func.
 
 #### PEFT
-[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). [[70]](#70). [[101]](#101). [[102]](#102). [[103]](#103).
+[[31]](#31). [[37]](#37). [[40]](#40). [[42]](#42). [[45]](#45). [[51]](#51). [[52]](#52). [[55]](#55). [[57]](#57). [[58]](#58). [[70]](#70). [[101]](#101). [[102]](#102). [[103]](#103). [[104]](#104).
 ##### Attention
 ##### FFN
 ##### Every SubLayer
@@ -309,3 +309,5 @@ frozen routing in finetuning [[10]](#10).
 <a id="102">[102]</a> AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning [[EMNLP 2022]](https://arxiv.org/abs/2205.12410) 2022-5-24
 
 <a id="103">[103]</a> When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications [[SIGIR 2024]](https://arxiv.org/abs/2310.18339) 2023-10-21
+
+<a id="103">[104]</a> Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning [[ArXiv 2024]](https://arxiv.org/abs/2404.08985) 2024-4-13
