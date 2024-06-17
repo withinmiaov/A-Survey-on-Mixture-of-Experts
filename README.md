@@ -314,3 +314,5 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="105">[105]</a> FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion [[ArXiv 2024]](https://arxiv.org/abs/2402.03226) 2024-2-5
 
+<a id="106">[106]</a> HOMOE: A Memory-Based and Composition-Aware Framework for Zero-Shot Learning with Hopfield Network and Soft Mixture of Experts [[ArXiv 2023]](https://arxiv.org/abs/2311.14747) 2023-11-23
+
