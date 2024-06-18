@@ -320,3 +320,7 @@ frozen routing in finetuning [[10]](#10).
 
 <a id="108">[108]</a> MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation [[NAACL 2022]](https://arxiv.org/abs/2204.07675) 2022-4-15
 
+<a id="109">[109]</a> DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model [[ArXiv 2024]](https://arxiv.org/abs/2405.04434) 2024-5-7
+
+<a id="110">[110]</a> Jamba: A Hybrid Transformer-Mamba Language Model [[ArXiv 2024]](https://arxiv.org/abs/2403.19887) 2024-3-28
+
