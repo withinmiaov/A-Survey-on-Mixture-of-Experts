@@ -102,7 +102,7 @@ frozen routing in finetuning [[10]](#10).
 
 
 
-## References
+## References (arranged in order of time)
 
 <a id="91">[91]</a> Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models [[ArXiv 2024]](https://github.com/SkyworkAI/Skywork-MoE) 2024-6-3
 
