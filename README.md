@@ -186,8 +186,7 @@
 
 <a id="20">[20]</a> GLaM: Efficient Scaling of Language Models with Mixture-of-Experts	[[ICML 2022]](https://arxiv.org/abs/2112.06905) 2021-12-13
 
-<a id="19">[19]</a> Dselect-k: Differentiable selection in the mixture of experts with applications to multi-task learning [[NIPS 2021]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f5ac21cd0ef1b88e9848571aeb53551a-
-Abstract.html) 2021.12.6
+<a id="19">[19]</a> Dselect-k: Differentiable selection in the mixture of experts with applications to multi-task learning [[NIPS 2021]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f5ac21cd0ef1b88e9848571aeb53551a-Abstract.html) 2021.12.6
 
 <a id="18">[18]</a> Tricks for Training Sparse Translation Models [[NAACL 2022]](https://arxiv.org/abs/2110.08246) 2021-10-15
 
