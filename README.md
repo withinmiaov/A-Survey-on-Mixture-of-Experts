@@ -1,6 +1,97 @@
 # A-Survey-on-Mixture-of-Experts
 
 
+## Links to the Survey Paper
+ArXiv: https://arxiv.org/abs/2407.06204
+
+TechRxiv: https://www.techrxiv.org/users/799279/articles/1165210-a-survey-on-mixture-of-experts
+
+
+## Taxonomy of Mixture of Experts (MoE)
+-Mixture of Experts (MoE)
+
+--Algorithm
+
+---Gating Function
+
+----Dense [EvoMoE[[22]](#22). LoRAMoE[[83]](#83). MoLE[[87]](#87). DS-MoE[[100]](#100).]
+
+----Sparse
+
+-----Token-Choice [Shazeer et al.[[1]](#1). MMoE[[2]](#2). GShard[[3]](#3). Switch Transformer[[5]](#5). Base Layers[[8]](#8). M6-t[[9]](#9). V-MoE[[11]](#11). Z-code M3[[14]](#14). Sentence-level MoE[[15]](#15). DSelect-k[[19]](#19). S-Base[[25]](#25). ST-MoE[[26]](#26). StableMoE[[33]](#33). X-MoE[[35]](#35). Task-level MoE[[38]](#38). Uni-Perceiver-MoE[[42]](#42). NLLB[[43]](#43). MoA[[49]](#49). Mod-Squad[[52]](#52). ModuleFormer[[65]](#65). Mixtral-8x7B[[82]](#82). DeepSeekMoE[[86]](#86). OpenMoE[[90]](#90). Jamba[[96]](#96). DS-MoE[[100]](#100). JetMoE[[101]](#101). Yuan 2.0-M32[[109]](#109). Skywork-MoE[[110]](#110). DBRX.]
+
+-----Non-trainable Token-Choice [M2M-100[[4]](#4). Hash Layer[[10]](#10). DEMix[[13]](#13). Task-MoE[[15]](#15). THOR[[17]](#17). Pangu-∑[[58]](#58).]
+
+-----Expert-Choice [Expert-Choice MoE[[27]](#27). Brainformers[[62]](#62).]
+
+----Soft
+
+-----Token Merging [Soft MoE[[68]](#68). HOMOE[[80]](#80).]
+
+-----Expert Merging [SMEAR[[63]](#63). MoV[[73]](#73). Omni-SMoLA[[81]](#81). Lory[[106]](#106).]
+
+---Experts
+
+----Network Types
+
+-----FFN [GShard[[3]](#3). Switch Transformer[[5]](#5). MoEfication[[16]](#16). ST-MoE[[26]](#26). Branch-Train-MiX[[94]](#94). DS-MoE[[100]](#100).]
+
+-----Attention [MoA[[49]](#49). ModuleFormer[[65]](#65). DS-MoE[[100]](#100). JetMoE[[101]](#101).]
+
+-----Others [Chen et al.[[44]](#44). pMoE[[64]](#64). ADVMOE[[70]](#70).]
+
+----Hyperparameters
+
+-----Count [GShard[[3]](#3). Swith Transformer[[5]](#5). GLaM[[20]](#20). Meta-MoE[[21]](#21). DeepSpeed-MoE[[23]](#23). ST-MoE[[26]](#26). Mixtral-8x7B[[82]](#82).]
+
+-----Size [GLaM[[20]](#20). Mixtral-8x7B[[82]](#82). LLAMA-MoE[[85]](#85). DeepSeekMoE[[86]](#86). DeepSeek-V2[[107]](#107). DBRX. Qwen1.5-MoE.]
+
+-----Frequency [V-MoE[[11]](#11). ST-MoE[[26]](#26). Brainformers[[62]](#62). DeepSeekMoE[[86]](#86). OpenMoE[[90]](#90). MoE-LLaVA[[91]](#91). Jamba[[96]](#96).]
+            
+----Activation Function
+
+----Shared Expert [DeepSpeed-MoE[[23]](#23). NLLB[[43]](#43). MoCLE[[84]](#84). DeepSeekMoE[[86]](#86). OpenMoE[[90]](#90). ScMoE[[99]](#99).]
+
+----PEFT
+
+-----FFN [AdaMix[[37]](#37). MixDA[[66]](#66). LoRAMoE[[83]](#83). LLaVA-MoLE[[89]](#89). MixLoRA[[103]](#103).]
+
+-----Attention [SiRA[[79]](#79). MoCLE[[84]](#84). MoELoRA.]
+
+-----Transformer Block [MoV[[73]](#73). MoLoRA[[73]](#73). Omni-SMoLA[[81]](#81). MoLA[[93]](#93). Intuition-MoR1E[[102]](#102). UniPELT. MOELoRA.]
+
+-----Every Layer[MoLE[[87]](#87).]
+
+---Training & Inference Scheme
+
+----Original [Shazeer et al.[[1]](#1). GShard[[3]](#3). Switch Transformer[[5]](#5). ST-MoE[[26]](#26).]
+
+----Dense2Sparse [MoEfication[[16]](#16). Dua et al.[[18]](#18). EvoMoE[[22]](#22). MoEBERT[[32]](#32). RMoE[[34]](#34). SMoE-Dropout[[55]](#55). LLaMA-MoE[[85]](#85). MoE-LLaVA[[91]](#91). DS-MoE[[100]](#100). Skywork-MoE[[110]](#110). Sparse Upcycling.]
+            
+----Sparse2Dense [OneS[[24]](#24). MoE-Pruning[[39]](#39). ModuleFormer[[65]](#65). EWA[[69]](#69).]
+
+----Expert Models Merging [Branch-Train-Merge[[45]](#45). FoE[[74]](#74). Branch-Train-MiX[[94]](#94).]
+
+---Derivatives [WideNet[[12]](#12). SMoP[[75]](#75). SUT[[76]](#76). MoD[[98]](#98). Lifelong-MoE. MoT.]
+
+--System
+
+---Computation [FastMoE[[7]](#7). DeepSpeed-MoE[[23]](#23). HetuMoE[[29]](#29). FasterMoE[[30]](#30). Tutel[[41]](#41). SE-MoE[[36]](#36). MegaBlocks[[50]](#50). PIT[[53]](#53). FlexMoE[[59]](#59). SmartMoE[[67]](#67). ScatterMoE[[95]](#95). DeepSpeed-TED.]
+
+---Communication [DeepSpeed-MoE[[23]](#23). HetuMoE[[29]](#29). FasterMoE[[30]](#30). SE-MoE[[36]](#36). Tutel[[41]](#41). TA-MoE[[54]](#54). MPipeMoE[[60]](#60). ExFlow[[88]](#88). ScMoE[[99]](#99). Lancet[[105]](#105). SkyWork-MoE[[110]](#110). DeepSpeed-TED.]
+
+---Storage [SE-MoE[[36]](#36). MPipeMoE[[60]](#60). Pre-gated MoE[[71]](#71). EdgeMoE[[72]](#72).]
+
+--Application
+
+---NLP [Shazeer et al.[[1]](#1). GShard[[3]](#3). Swith Transformer[[5]](#5). GLaM[[20]](#20). Meta-MoE[[21]](#21). DeepSpeed-MoE[[23]](#23). ST-MoE[[26]](#26). NLLB[[43]](#43). Mixtral-8x7B[[82]](#82). DeepSeekMoE[[86]](#86).]
+
+---CV [V-MoE[[11]](#11). Swin-MoE[[41]](#41). pMoE[[64]](#64). ADVMOE[[70]](#70).]
+
+---RecSys [MMoE[[2]](#2). PLE. AdaMCT.]
+
+---MultiModal [LIMoE[[40]](#40). Shen et al.[[57]](#57). MoCLE[[84]](#84). LLaVA-MoLE[[89]](#89). MoE-LLaVA[[91]](#91). Uni-MoE[[108]](#108). MM1.]
+        
 
 ## References (arranged in order of time)
 
