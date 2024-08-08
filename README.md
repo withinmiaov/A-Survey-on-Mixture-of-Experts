@@ -1,13 +1,21 @@
 # A-Survey-on-Mixture-of-Experts
 
-
 ## Links to the Survey Paper
 ArXiv: https://arxiv.org/abs/2407.06204
 
 TechRxiv: https://www.techrxiv.org/users/799279/articles/1165210-a-survey-on-mixture-of-experts
 
+## Timeline of Mixture of Experts (MoE)
+
+![image](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts/blob/main/MoE_Timeline.png)
+
 
 ## Taxonomy of Mixture of Experts (MoE)
+
+![image](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts/blob/main/MoE_Taxonomy.png)
+
+
+
 -Mixture of Experts (MoE)
 
 --Algorithm
