@@ -26,7 +26,7 @@ _**----Dense**_ [EvoMoE[[22]](#22). LoRAMoE[[88]](#88). MoLE[[92]](#92). DS-MoE[
 
 _**----Sparse**_
 
-_**-----Token-Choice**_ [Shazeer et al.[[1]](#1). MMoE[[2]](#2). GShard[[3]](#3). Switch Transformer[[5]](#5). Base Layers[[8]](#8). M6-t[[9]](#9). V-MoE[[11]](#11). Z-code M3[[14]](#14). Sentence-level MoE[[15]](#15). DSelect-k[[19]](#19). S-Base[[25]](#25). ST-MoE[[26]](#26). StableMoE[[33]](#33). X-MoE[[35]](#35). Task-level MoE[[38]](#38). Uni-Perceiver-MoE[[42]](#42). NLLB[[43]](#43). MoA[[49]](#49). Mod-Squad[[53]](#53). ModuleFormer[[69]](#69). Mixtral-8x7B[[82]](#82). DeepSeekMoE[[91]](#91). OpenMoE[[95]](#95). Jamba[[102]](#102). DS-MoE[[106]](#106). JetMoE[[107]](#107). Yuan 2.0-M32[[122]](#122). Skywork-MoE[[123]](#123). DBRX. SCMoE[[119]](#119). DYNMoE[[120]](#120). Flextron[[125]](#125).]
+_**-----Token-Choice**_ [Shazeer et al.[[1]](#1). MMoE[[2]](#2). GShard[[3]](#3). Switch Transformer[[5]](#5). Base Layers[[8]](#8). M6-t[[9]](#9). V-MoE[[11]](#11). Z-code M3[[14]](#14). Sentence-level MoE[[15]](#15). DSelect-k[[19]](#19). S-Base[[25]](#25). ST-MoE[[26]](#26). StableMoE[[33]](#33). X-MoE[[35]](#35). Task-level MoE[[38]](#38). Uni-Perceiver-MoE[[42]](#42). NLLB[[43]](#43). MoA[[49]](#49). Mod-Squad[[53]](#53). ModuleFormer[[69]](#69). Mixtral-8x7B[[82]](#82). DeepSeekMoE[[91]](#91). OpenMoE[[95]](#95). Jamba[[102]](#102). DS-MoE[[106]](#106). JetMoE[[107]](#107). Yuan 2.0-M32[[122]](#122). Skywork-MoE[[123]](#123). DBRX. SCMoE[[119]](#119). DYNMoE[[120]](#120). Flextron[[125]](#125).MoH[[127].](#127)
 
 _**-----Non-trainable Token-Choice**_ [M2M-100[[4]](#4). Hash Layer[[10]](#10). DEMix[[13]](#13). Task-MoE[[15]](#15). THOR[[17]](#17). Pangu-∑[[59]](#59).]
 
@@ -103,6 +103,8 @@ _**---MultiModal**_ [LIMoE[[40]](#40). Shen et al.[[58]](#58). MoCLE[[89]](#89).
 
 
 ## References (arranged in order of time)
+
+<a id="127">[127]</a> MoH: Multi-Head Attention as Mixture-of-Head Attention [[ArXiv 2024]](https://arxiv.org/abs/2410.11842v1) 2024-10-15
 
 <a id="126">[126]</a> Mixture of A Million Experts [[ArXiv 2024]](https://arxiv.org/abs/2407.04153) 2024-7-4
 
