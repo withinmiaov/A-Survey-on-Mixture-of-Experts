@@ -18,12 +18,12 @@
 <p align="center" width="100%">
   <img src="assets/moe_timeline.jpg" alt="MoE LLMs Timeline" style="width: 95%; min-width: 100px; display: block; margin: auto;">
   <br>
-    A chronological overview of several representative mixture-of-experts (MoE) models in recent years. The timeline is primarily structured according to the release dates of the models. MoE models located above the arrow are open-source, while those below the arrow are proprietary and closed-source. MoE models from various domains are marked with distinct colors: Natural Language Processing (NLP) in green, Computer Vision in yellow, Multimodal in pink, and Recommender Systems (RecSys) in cyan.
+    A chronological overview of several representative Mixture-of-Experts (MoE) models in recent years. The timeline is primarily structured according to the release dates of the models. MoE models located above the arrow are open-source, while those below the arrow are proprietary and closed-source. MoE models from various domains are marked with distinct colors: Natural Language Processing (NLP) in green, Computer Vision in yellow, Multimodal in pink, and Recommender Systems (RecSys) in cyan.
 </p>
 
 > [!IMPORTANT]
 > 
-> A curated collection of papers and resources on mixtur of experts with Large Language Models.
+> A curated collection of papers and resources on Mixture of Experts with Large Language Models.
 > 
 > Please refer to our survey [**"A Survey on Mixture of Experts"**](https://arxiv.org/abs/2407.06204) for the detailed contents. [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org/abs/2407.06204)
 > 
