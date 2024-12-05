@@ -1,5 +1,5 @@
 <p align="center" width="35%">
-<img src="assets/moe_logo.png" alt="HKUST MoE Survey" style="width: 50%; min-width: 250px; display: block; margin: auto;">
+<img src="assets/moe_logo.png" alt="HKUST MoE Survey" style="width: 25%; min-width: 250px; display: block; margin: auto;">
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 
 <p align="center" width="90%">
-  <img src="assets/moe_timeline.jpg" alt="MoE LLMs Timeline" style="width: 100%; min-width: 100px; display: block; margin: auto;">
+  <img src="assets/moe_timeline.jpg" alt="MoE LLMs Timeline" style="width: 90%; min-width: 100px; display: block; margin: auto;">
   <br>
     A chronological overview of several representative mixture-of-experts (MoE) models in recent years. The timeline is primarily structured according to the release dates of the models. MoE models located above the arrow are open-source, while those below the arrow are proprietary and closed-source. MoE models from various domains are marked with distinct colors: Natural Language Processing (NLP) in green, Computer Vision in yellow, Multimodal in pink, and Recommender Systems (RecSys) in cyan.
 </p>
@@ -50,7 +50,7 @@
 ## Taxonomy
 
 <p align="center" width="90%">
-  <img src="assets/moe_taxonomy.jpg" alt="MoE LLMs Taxonomy" style="width: 100%; min-width: 100px; display: block; margin: auto;">
+  <img src="assets/moe_taxonomy.jpg" alt="MoE LLMs Taxonomy" style="width: 90%; min-width: 100px; display: block; margin: auto;">
 </p>
 
 
