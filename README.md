@@ -184,7 +184,7 @@
 
 - Brainformers: Trading Simplicity for Efficiency, [[ICML 2023]](https://arxiv.org/abs/2306.00008), 2023-5-29
 
--Emergent Modularity in Pre-trained Transformers, [[ACL 2023]](https://arxiv.org/abs/2305.18390), 2023-5-28
+- Emergent Modularity in Pre-trained Transformers, [[ACL 2023]](https://arxiv.org/abs/2305.18390), 2023-5-28
 
 - PaCE: Unified Multi-modal Dialogue Pre-training with Progressive and Compositional Experts, [[ACL 2023]](https://arxiv.org/abs/2305.14839), 2023-5-24
 
