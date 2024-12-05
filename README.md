@@ -1,4 +1,4 @@
-<p align="center" width="70%">
+<p align="center" width="35%">
 <img src="assets/moe_logo.png" alt="HKUST MoE Survey" style="width: 50%; min-width: 250px; display: block; margin: auto;">
 </p>
 
@@ -15,10 +15,10 @@
   </a>
 </div>
 
-<p align="center" width="100%">
+<p align="center" width="90%">
   <img src="assets/moe_timeline.jpg" alt="MoE LLMs Timeline" style="width: 100%; min-width: 100px; display: block; margin: auto;">
   <br>
-    A chronological overview of several representative mixture-of-experts (MoE) models in recent years. The timeline is primarily structured according to the release dates of the models. MoE models located above the arrow are open-source, while those below the arrow are proprietary and closed-source. MoE models from various domains are marked with distinct colors: Natural Language Processing (NLP) in ![#00FF00](https://placehold.co/15x15/00FF00/00FF00.png) green, Computer Vision in ![#FFFF00](https://placehold.co/15x15/FFFF00/FFFF00.png) yellow, Multimodal in ![#FFC0CB](https://placehold.co/15x15/FFC0CB/FFC0CB.png) pink, and Recommender Systems (RecSys) in ![#00FFFF](https://placehold.co/15x15/00FFFF/00FFFF.png) cyan.
+    A chronological overview of several representative mixture-of-experts (MoE) models in recent years. The timeline is primarily structured according to the release dates of the models. MoE models located above the arrow are open-source, while those below the arrow are proprietary and closed-source. MoE models from various domains are marked with distinct colors: Natural Language Processing (NLP) in green, Computer Vision in yellow, Multimodal in pink, and Recommender Systems (RecSys) in cyan.
 </p>
 
 > [!IMPORTANT]
@@ -41,12 +41,15 @@
 ```
 
 ## Table of Contents
-- [Taxonomy of MoE](#taxonomy-of-moe)
+- [Table of Contents](#table-of-contents)
+- [Taxonomy](#taxonomy)
 - [Paper List (Organized Chronologically and Categorically)](#paper-list-organized-chronologically-and-categorically)
+- [Contributors](#contributors)
+- [Star History](#star-history)
 
 ## Taxonomy
 
-<p align="center" width="100%">
+<p align="center" width="90%">
   <img src="assets/moe_taxonomy.jpg" alt="MoE LLMs Taxonomy" style="width: 100%; min-width: 100px; display: block; margin: auto;">
 </p>
 
