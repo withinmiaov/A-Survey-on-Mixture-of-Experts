@@ -15,21 +15,21 @@
   </a>
 </div> -->
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="assets/moe_logo_v2.jpeg" alt="HKUST MoE Survey" style="flex: 2; min-width: 100px; max-width: 200px; margin-right: 20px;">
-  <div style="flex: 8;">
-    <h1>A Survey on Mixture of Experts</h1>
-    <a href="https://awesome.re">
-      <img src="https://awesome.re/badge.svg" alt="Awesome">
-    </a>
-    <a href="https://img.shields.io/badge/PRs-Welcome-red">
-      <img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PRs Welcome">
-    </a>
-    <a href="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green">
-      <img src="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green" alt="Last Commit">
-    </a>
-  </div>
-</div>
+<p align="left">
+  <img src="assets/moe_logo_v2.jpeg" alt="HKUST MoE Survey" style="width: 100px; vertical-align: middle; margin-right: 20px;">
+  <span style="font-size: 2em;">A Survey on Mixture of Experts</span>
+</p>
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+  <a href="https://img.shields.io/badge/PRs-Welcome-red">
+    <img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PRs Welcome">
+  </a>
+  <a href="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green">
+    <img src="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green" alt="Last Commit">
+  </a>
+</p>
 
 
 <p align="center" width="100%">
