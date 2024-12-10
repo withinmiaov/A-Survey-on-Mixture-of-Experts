@@ -17,7 +17,9 @@
 
 <p align="left">
   <img src="assets/moe_logo_v2.jpeg" alt="HKUST MoE Survey" style="width: 100px; vertical-align: middle; margin-right: 20px;">
-  <span style="font-size: 2em;">A Survey on Mixture of Experts</span>
+  <!-- <span style="font-size: 2em;">A Survey on Mixture of Experts</span> -->
+  <h1 style="display: inline;">A Survey on Mixture of Experts</h1>
+  <!-- <h1>A Survey on Mixture of Experts</h1> -->
 </p>
 <p align="center">
   <a href="https://awesome.re">
