@@ -1,5 +1,5 @@
-<p align="center" width="35%">
-<img src="assets/moe_logo.png" alt="HKUST MoE Survey" style="width: 35%; min-width: 250px; display: block; margin: auto;">
+<!-- <p align="center" width="35%">
+<img src="assets/moe_logo_v2.jpeg" alt="HKUST MoE Survey" style="width: 35%; min-width: 250px; display: block; margin: auto;">
 </p>
 
 <div align="center">
@@ -13,7 +13,24 @@
   <a href="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green">
     <img src="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green" alt="Last Commit">
   </a>
+</div> -->
+
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="assets/moe_logo_v2.jpeg" alt="HKUST MoE Survey" style="flex: 2; min-width: 100px; max-width: 200px; margin-right: 20px;">
+  <div style="flex: 8;">
+    <h1>A Survey on Mixture of Experts</h1>
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome">
+    </a>
+    <a href="https://img.shields.io/badge/PRs-Welcome-red">
+      <img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PRs Welcome">
+    </a>
+    <a href="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green">
+      <img src="https://img.shields.io/github/last-commit/withinmiaov/A-Survey-on-Mixture-of-Experts?color=green" alt="Last Commit">
+    </a>
+  </div>
 </div>
+
 
 <p align="center" width="100%">
   <img src="assets/moe_timeline.jpg" alt="MoE LLMs Timeline" style="width: 95%; min-width: 100px; display: block; margin: auto;">
