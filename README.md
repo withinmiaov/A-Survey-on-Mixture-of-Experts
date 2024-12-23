@@ -41,7 +41,6 @@
 ```
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Taxonomy](#taxonomy)
 - [Paper List (Organized Chronologically and Categorically)](#paper-list-organized-chronologically-and-categorically)
 - [Contributors](#contributors)
