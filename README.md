@@ -60,9 +60,19 @@
 
 ## Paper List (Organized Chronologically and Categorically)
 
-- M4oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts, [[MICCAI 2024]](https://papers.miccai.org/miccai-2024/paper/1472_paper.pdf), 2024-05-15
+- Qwen2.5 Technical Report, [[ArXiv 2024]](https://arxiv.org/abs/2412.15115), 2024-12-19
+
+- LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training, [[ArXiv 2024]](https://arxiv.org/abs/2411.15708), 2024-11-24
+
+- Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent, [[ArXiv 2024]](https://arxiv.org/abs/2411.02265), 2024-11-4
 
 - MoH: Multi-Head Attention as Mixture-of-Head Attention, [[ArXiv 2024]](https://arxiv.org/abs/2410.11842v1), 2024-10-15
+
+- Upcycling Large Language Models into Mixture of Experts, [[ArXiv 2024]](https://arxiv.org/abs/2410.07524), 2024-10-10
+
+- GRIN: GRadient-INformed MoE, [[ArXiv 2024]](https://arxiv.org/abs/2409.12136), 2024-9-18
+
+- OLMoE: Open Mixture-of-Experts Language Models, [[ArXiv 2024]](https://arxiv.org/abs/2409.02060), 2024-9-3
 
 - Mixture of A Million Experts, [[ArXiv 2024]](https://arxiv.org/abs/2407.04153), 2024-7-4
 
@@ -84,6 +94,8 @@
 
 - Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts, [[ArXiv 2024]](https://arxiv.org/abs/2405.11273), 2024-5-18
 
+- M4oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts, [[MICCAI 2024]](https://papers.miccai.org/miccai-2024/paper/1472_paper.pdf), 2024-05-15
+
 - Optimizing Distributed ML Communication with Fused Computation-Collective Operations, [[ArXiv 2023]](https://arxiv.org/abs/2305.06942), 2023-5-11
 
 - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model, [[ArXiv 2024]](https://arxiv.org/abs/2405.04434), 2024-5-7
@@ -95,6 +107,8 @@
 - M3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework, [[SIGIR 2024]](https://arxiv.org/abs/2404.18465), 2024-4-29
 
 - Multi-Head Mixture-of-Experts, [[ArXiv 2024]](https://arxiv.org/abs/2404.15045), 2024-4-23
+
+- Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone, [[ArXiv 2024]](https://arxiv.org/abs/2404.14219), 2024-4-22
 
 - ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling, [[EuroSys 2024]](https://dl.acm.org/doi/10.1145/3627703.3650083), 2024-4-22
 
