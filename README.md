@@ -60,7 +60,11 @@
 
 ## Paper List (Organized Chronologically and Categorically)
 
+- DeepSeek-V3 Technical Report, [[ArXiv 2024]](https://arxiv.org/abs/2412.19437), 2024-12-27
+  
 - Qwen2.5 Technical Report, [[ArXiv 2024]](https://arxiv.org/abs/2412.15115), 2024-12-19
+
+- A Survey on Inference Optimization Techniques for Mixture of Experts Models, [[ArXiv 2024]](https://arxiv.org/abs/2412.14219), 2024-12-18
 
 - LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training, [[ArXiv 2024]](https://arxiv.org/abs/2411.15708), 2024-11-24
 
