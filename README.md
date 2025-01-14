@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1 style="font-size: 22px;">A Survey on Mixture of Experts in Large Language Models</h1>
+  <h1>A Survey on Mixture of Experts in<br>Large Language Models</h1>
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
