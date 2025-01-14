@@ -28,17 +28,7 @@
 > Please refer to our survey [**"A Survey on Mixture of Experts in Large Language Models"**](https://arxiv.org/abs/2407.06204) for the detailed contents. [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org/abs/2407.06204)
 > 
 > Please let us know if you discover any mistakes or have suggestions by emailing us: wcai738@connect.hkust-gz.edu.cn
-> 
-> If you find our survey beneficial for your research, please consider citing the following paper:
 
-```Bibtex
-@article{cai2024survey,
-  title={A Survey on Mixture of Experts},
-  author={Cai, Weilin and Jiang, Juyong and Wang, Fan and Tang, Jing and Kim, Sunghun and Huang, Jiayi},
-  journal={arXiv preprint arXiv:2407.06204},
-  year={2024}
-}
-```
 
 ## Table of Contents
 - [Taxonomy](#taxonomy)
