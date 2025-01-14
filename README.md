@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>A Survey on Mixture of Experts</h1>
+  <h1>A Survey on Mixture of Experts in Large Language Models</h1>
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
@@ -25,7 +25,7 @@
 > 
 > A curated collection of papers and resources on Mixture of Experts with Large Language Models.
 > 
-> Please refer to our survey [**"A Survey on Mixture of Experts"**](https://arxiv.org/abs/2407.06204) for the detailed contents. [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org/abs/2407.06204)
+> Please refer to our survey [**"A Survey on Mixture of Experts in Large Language Models"**](https://arxiv.org/abs/2407.06204) for the detailed contents. [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org/abs/2407.06204)
 > 
 > Please let us know if you discover any mistakes or have suggestions by emailing us: wcai738@connect.hkust-gz.edu.cn
 > 
