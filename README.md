@@ -23,7 +23,7 @@
 
 > [!IMPORTANT]
 > 
-> A curated collection of papers and resources on Mixture of Experts with Large Language Models.
+> A curated collection of papers and resources on Mixture of Experts in Large Language Models.
 > 
 > Please refer to our survey [**"A Survey on Mixture of Experts in Large Language Models"**](https://arxiv.org/abs/2407.06204) for the detailed contents. [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org/abs/2407.06204)
 > 
